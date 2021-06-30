@@ -26,79 +26,80 @@ header {
 
 main {
   width: 800px;
+  margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
 }
 
 .main-content {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #e6ffe9;
 }
 
 .main-content2 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #cbffd3;
 }
 
 .main-content3 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #aeffbd;
 }
 
 .main-content4 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #93ffab;
 }
 
 .main-content5 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #f3ffd8;
 }
 
 .main-content6 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #edffbe;
 }
 
 .main-content7 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #e9ffa5;
 }
 
 .main-content8 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #e4ff8d;
 }
 
 .main-content9 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #d9e5ff;
 }
 
 .main-content10 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #bad3ff;
 }
 
 .main-content11 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #a4c6ff;
 }
 
 .main-content12 {
   width: 200px;
-  padding: 50px 0;
+  height: 200px;
   background-color: #8eb6ff;
 }
 
